@@ -1,4 +1,4 @@
-# Aluminium-
+# Aluminium
 Aluminium Extraction and Residue Management System using Machine Learning
 
 
@@ -60,8 +60,8 @@ This project aims to optimize the **aluminium extraction process** and address *
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/transformeryogi/Aluminium-
-   cd aluminium-
+   git clone https://github.com/transformeryogi/Aluminium
+   cd aluminium
    ```
 
 2. **Install Dependencies**:
@@ -117,7 +117,7 @@ For any issues or questions, please reach out to **[your-email@example.com](mail
 
 ### 🌐 Links
 
-- [Project Wiki](https://github.com/transformeryogi/Aluminium-)
+- [Project Wiki](https://github.com/transformeryogi/Aluminium)
 - [Issue Tracker](https://github.com/your-username/aluminium-extraction-ml/issues)
 
 ---
